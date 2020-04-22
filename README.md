@@ -1,3 +1,6 @@
+DO NOT DELETE, it is a dependency of our [Lightspeed Hub](https://github.com/lightspeedretail/hub-platform/) application.
+===============
+
 evilscan
 ===============
 

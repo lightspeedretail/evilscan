@@ -207,7 +207,7 @@ class Evilscan extends EventEmitter {
         }
 
         if (!geoip) {
-          geoip = require('geoip-lite');
+          return callback();
         }
         
         if (this.cacheGeo[ip]) {
